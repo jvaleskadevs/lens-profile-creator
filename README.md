@@ -14,10 +14,18 @@ Example:
 - Run the app:
 `npm run dev`
 
+## Use the app
+- Login with your wallet pointing to the Mumbai network.
+- Type your new Lens handle.
+- Click on Create.
+- Done!
+
 ## Build your own Lens Profile Creator app (tutorial)
 
 - Create a next app (select default options):
-`npx create-next-app lens-profile-creator`
+```
+npx create-next-app lens-profile-creator`
+```
 - Move into your app directory and install Lens dependencies:
 ```
 cd lens-profile-creator
