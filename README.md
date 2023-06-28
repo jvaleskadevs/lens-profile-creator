@@ -8,11 +8,17 @@ Example:
 ## Run the app
 
 - Clone the repo:
-`git clone https://github.com/jvaleskadevs/lens-profile-creator.git`
+```
+git clone https://github.com/jvaleskadevs/lens-profile-creator.git
+```
 - Install dependencies:
-`npm install`
+```
+npm install
+```
 - Run the app:
-`npm run dev`
+```
+npm run dev
+```
 
 ## Use the app
 - Login with your wallet pointing to the Mumbai network.
@@ -24,7 +30,7 @@ Example:
 
 - Create a next app (select default options):
 ```
-npx create-next-app lens-profile-creator`
+npx create-next-app lens-profile-creator
 ```
 - Move into your app directory and install Lens dependencies:
 ```
